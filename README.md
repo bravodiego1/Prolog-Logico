@@ -1,0 +1,2 @@
+# Prolog-Logico
+Paradigma Logico
